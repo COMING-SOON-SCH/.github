@@ -1,7 +1,10 @@
 <p align = "center">
-<img width = 600px src = "https://github.com/COMING-SOON-SCH/.github/assets/100592495/50bc7fdb-02d3-43b2-8c79-455414a43f48"/>
+<img width = 600px src = "https://github.com/COMING-SOON-SCH/.github/assets/100592495/f5565a61-6f20-44c7-94bf-f5342bb81b87"/)
+"/>
 <br><br><br>
 </p>
+
+<br>
 
 ## 🖐️Introduction
 **Coming Soon**은 교내 IT 서비스 개발에 관심이 있는 순천향대 학생들이 모인 웹 개발 동아리입니다. Coming Soon은 순천향대 학우들의 생활을 편리하게 돕는 다양한 IT 서비스를 개발하기 위해 노력하고 있습니다!
@@ -9,6 +12,15 @@
 <br>
 
 ## 💻 Activities
+순천향대 학생들을 위한 교내 IT 서비스를 개발합니다. <br>
+동아리 내 스터디와 멘토링을 진행합니다.
+
+- 웹 기초 교육
+- Git&Github 활용 교육
+- FE/BE 파트 별 스터디
+- 세미나
+
+[Coming Soon 교육 자료](https://coming-soon.oopy.io/)
 
 <br>
 
