@@ -1,3 +1,4 @@
+<br><br><br>
 <p align = "center">
 <img width = 600px src = "https://github.com/COMING-SOON-SCH/.github/assets/100592495/f5565a61-6f20-44c7-94bf-f5342bb81b87"/)
 "/>
